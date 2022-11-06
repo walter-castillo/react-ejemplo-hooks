@@ -5,7 +5,8 @@ export default function Menu() {
       <main>
         <nav>
             <Link to='/'>Home</Link> | {" "}
-            <Link to='/about'>About</Link>
+            <Link to='/about'>About</Link> | {" "}
+            <Link to='/modal'>Modal Ejemplo</Link>
         </nav>
         <section>
         <br />
